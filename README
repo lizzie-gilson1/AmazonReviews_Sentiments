@@ -1,0 +1,7 @@
+The data directory contains a vader.txt file (for VADER score analysis), and seven .json files sampled from the original ones, with a sample percentage of 1%, in the directory called "Original". The directory 112723 is made to allow the scripts to generate intermediate json files used in the data analysis and feature engeneering. The figures used inside of our report and inside of the jupyter notesbooks are created using the original dataset. Some of the figures only use certain categories. 
+ 
+The Json files are part of the 5-Core Amazon Review Dataset divided by category, and they are:
+
+Kindle_Store_5.json   Patio_Lawn_and_Garden_5.json  Tools_and_Home_Improvement_5.json  Video_Games_5.json
+Movies_and_TV_5.json  Sports_and_Outdoors_5.json    Toys_and_Games_5.json 
+

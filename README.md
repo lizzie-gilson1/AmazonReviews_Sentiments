@@ -50,4 +50,4 @@ The contents of this repository are as follows:
        - Kindle, MoviesandTv, Patio, Sports, Tools, Toys, Video Games.
 3) /figures : contains the png of graphs and tables used in the report.
 4) /narrative : contains one PDF with the Final Project Report.
-     - Read [Here](/narrative/Data200 Final%Project%Paper%2.pdf) for a more indepth explanation of our project. 
+     - Read here for a more indepth explanation of our project. 
